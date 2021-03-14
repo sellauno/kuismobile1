@@ -1,13 +1,13 @@
 #Screenshots
 - Tampilan awal
-![screenshots](image/ss1.png)
+![screenshots](image/ss1.PNG)
 
 - Menu Dropdown
-![screenshots](image/ss2.png)
+![screenshots](image/ss2.PNG)
 
 - Hasil Perhitungan 6 bulan, 24 bulan, 12 bulan
 
-![screenshots](image/ss3.png)
+![screenshots](image/ss3.PNG)
 
 # kuis1
 
