@@ -1,3 +1,14 @@
+#Screenshots
+- Tampilan awal
+![screenshots](image/ss1.png)
+
+- Menu Dropdown
+![screenshots](image/ss2.png)
+
+- Hasil Perhitungan 6 bulan, 24 bulan, 12 bulan
+
+![screenshots](image/ss3.png)
+
 # kuis1
 
 A new Flutter project.
